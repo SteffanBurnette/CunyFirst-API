@@ -9,7 +9,7 @@ This is a web scraper built with Node.js to extract college major programs from 
 
 1. Clone the repo
 2. Run `npm install` to install dependencies
-3. Run `node index.js` to execute the scraper
+3. Run `node CunyFirstData.js` to execute the scraper
 4. Scraper output will be saved to `colleges.json`
 
 ### Code Overview
